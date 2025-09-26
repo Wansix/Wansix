@@ -9,8 +9,8 @@ Web3 · DeFi · NFT 분야에 관심이 많은 개발자입니다.
 ## 🚀 주요 프로젝트
 
 - **CuriousPandasNFT (스마트컨트랙트)**  
-  Klaytn(현 Kaia) 체인 기반 NFT 컬렉션.
-  무료 민팅 진행함. - 완판 
+  Klaytn(현 Kaia) 체인 기반 NFT 컬렉션.  
+  무료 민팅 진행함 - 완판   
   [레포 보기](https://github.com/Wansix/curiousPandasNFT)
 
 - **CuriousPandasMint (민팅 사이트 프론트엔드)**  
@@ -18,21 +18,21 @@ Web3 · DeFi · NFT 분야에 관심이 많은 개발자입니다.
   지갑 연결, 민팅 단계별 화면, 트랜잭션 호출 연동 기능 제공  
   [레포 보기](https://github.com/Wansix/curiousPandasMint)
 
-- **WhaleyContract (스테이킹 컨트랙트)**
-  Polygon 체인 기반 NFT 컬렉션
-  실제 민팅 진행함. 
-  NFT **3개 단위 스테이킹** 컨트랙트 · 언스테이킹 관리 로직 구현  
+- **WhaleyContract (스테이킹 컨트랙트)**  
+  Polygon 체인 기반 NFT 컬렉션  
+  실제 민팅 진행함.   
+  NFT **3개 단위 스테이킹** 컨트랙트 · 언스테이킹 관리 로직 구현    
   [레포 보기](https://github.com/Wansix/whaleyContract)
 
-- **hc-nft-project (민팅 사이트 프론트엔드)** 
-  **Whaley** NFT 민팅 사이트
-  스테이킹 기능 제공
+- **hc-nft-project (민팅 사이트 프론트엔드)**   
+  **Whaley** NFT 민팅 사이트  
+  스테이킹 기능 제공  
   [레포 보기](https://github.com/Wansix/hc-nft-project)
 
 - **bamboosoopAPI**  
   밤부숲 (NFT 커뮤니티. 현재 운영중단) 플랫폼 API 서버
-  NFT 랭킹 기능 
-  [레포 보기](https://github.com/Wansix/bamboosoopAPI)
+  NFT 랭킹 기능   
+  [레포 보기](https://github.com/Wansix/bamboosoopAPI)  
 
 - **kimchi_bot**  
   김치밈 펀 사이트에서 거래 발생 시 텔레그램 알림을 보내는 봇  
