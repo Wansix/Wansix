@@ -2,40 +2,33 @@
 
 Web3 · DeFi · NFT 분야에 관심이 많은 개발자입니다.  
 개인 레포지토리에는 직접 진행한 사이드 프로젝트와 아이디어성 실험 프로젝트들이 있습니다.
-<br>
-<br>
 
+<br>
 
 ## 🚀 주요 프로젝트
 
 - **CuriousPandasNFT (스마트컨트랙트)**  
-  Klaytn(현 Kaia) 체인 기반 NFT 컬렉션.  
-  무료 민팅 진행함 - 완판   
+  Klaytn(현 Kaia) 기반 NFT 컬렉션 (총공급 3,000) · 3단계 민팅 시스템 및 화이트리스트 관리  
   [레포 보기](https://github.com/Wansix/curiousPandasNFT)
 
-- **CuriousPandasMint (민팅 사이트 프론트엔드)**  
-  민팅 UI를 구현한 dApp 프론트엔드 레포지토리  
-  지갑 연결, 민팅 단계별 화면, 트랜잭션 호출 연동 기능 제공  
+- **CuriousPandasMint (프론트엔드 dApp)**  
+  지갑 연결, 단계별 민팅, 트랜잭션 연동 기능을 제공하는 민팅 사이트  
   [레포 보기](https://github.com/Wansix/curiousPandasMint)
 
-- **WhaleyContract (스테이킹 컨트랙트)**  
-  Polygon 체인 기반 NFT 컬렉션  
-  실제 민팅 진행함.   
-  NFT **3개 단위 스테이킹** 컨트랙트 · 언스테이킹 관리 로직 구현    
+- **WhaleyContract (스마트컨트랙트)**  
+  Polygon 기반 Whaley NFT 컨트랙트 · 3개 단위 스테이킹 및 언스테이킹 로직 구현  
   [레포 보기](https://github.com/Wansix/whaleyContract)
 
-- **hc-nft-project (민팅 사이트 프론트엔드)**   
-  **Whaley** NFT 민팅 사이트  
-  스테이킹 기능 제공  
+- **hc-nft-project (민팅 사이트)**  
+  실제 의뢰 기반 Whaley NFT 민팅 서비스 · 스테이킹 기능 포함, 메인넷 민팅 완료  
   [레포 보기](https://github.com/Wansix/hc-nft-project)
 
-- **bamboosoopAPI**  
-  밤부숲 (NFT 커뮤니티. 현재 운영중단) 플랫폼 API 서버
-  NFT 랭킹 기능   
-  [레포 보기](https://github.com/Wansix/bamboosoopAPI)  
+- **bamboosoopAPI (백엔드 API)**  
+  밤부숲 NFT 커뮤니티용 API 서버 (현재 운영 중단) · NFT 랭킹 기능 제공  
+  [레포 보기](https://github.com/Wansix/bamboosoopAPI)
 
-- **kimchi_bot**  
-  김치밈 펀 사이트에서 거래 발생 시 텔레그램 알림을 보내는 봇  
+- **kimchi_bot (텔레그램 봇)**  
+  김치밈 펀 사이트 거래 발생 시 자동으로 텔레그램 알림을 전송하는 봇  
   [레포 보기](https://github.com/Wansix/kimchi_bot)
 
 <br>
