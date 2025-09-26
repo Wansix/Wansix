@@ -9,6 +9,7 @@ Web3 · DeFi · NFT 분야에 관심이 많은 개발자입니다.
 
 - **CuriousPandasNFT (스마트컨트랙트)**  
   Klaytn(현 Kaia) 기반 NFT 컬렉션 (총공급 3,000) · 3단계 민팅 시스템 및 화이트리스트 관리  
+  초기 무료 민팅 물량 1,000개 전량 소진  
   [레포 보기](https://github.com/Wansix/curiousPandasNFT)
 
 - **CuriousPandasMint (프론트엔드 dApp)**  
