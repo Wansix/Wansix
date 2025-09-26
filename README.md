@@ -1,6 +1,6 @@
 # 👋 안녕하세요, Wani 입니다
 
-Web3 · DeFi · NFT 분야에 관심이 많은 개발자입니다.<br>
+Web3 · DeFi · NFT 분야에 관심이 많은 개발자입니다.  
 개인 레포지토리에는 직접 진행한 사이드 프로젝트와 아이디어성 실험 프로젝트들이 있습니다.
 <br>
 <br>
@@ -33,7 +33,7 @@ Web3 · DeFi · NFT 분야에 관심이 많은 개발자입니다.<br>
   김치밈 펀 사이트에서 거래 발생 시 텔레그램 알림을 보내는 봇  
   [레포 보기](https://github.com/Wansix/kimchi_bot)
 
----
+<br>
 
 ## 🛠️ 기술 스택
 - **스마트컨트랙트**: Solidity, Hardhat, OpenZeppelin  
@@ -42,7 +42,7 @@ Web3 · DeFi · NFT 분야에 관심이 많은 개발자입니다.<br>
 - **블록체인**: Kaia/Klaytn, Ethereum, Uniswap V2 Mechanics  
 - **봇/자동화**: Telegram Bot API  
 
----
+<br>
 
 ## 📫 연락처
 - 이메일: noh891012@gmail.com  
