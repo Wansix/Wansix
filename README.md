@@ -30,7 +30,7 @@ Web3 · DeFi · NFT 분야에 관심이 많은 개발자입니다.
 
 - **kimchi_bot (텔레그램 봇)**  
   김치밈 펀 사이트 거래 발생 시 자동으로 텔레그램 알림을 전송하는 봇  
-  [레포 보기](https://github.com/Wansix/kimchi_bot)
+  [레포 보기](https://github.com/Wansix/kimchi_bot_public)
 
 <br>
 
