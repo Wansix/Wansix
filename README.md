@@ -37,14 +37,25 @@ Web3 · DeFi · NFT 분야에 관심이 많은 개발자입니다.
 
 - **lotto**
   https://lotto-simulators.pages.dev/
+
+- **내일배움캠프 팀 프로젝트 1**  
+ MSA 기반 국내 B2B 물류 관리 및 배송 최적화 플랫폼  
+  **• 주요 역할**: Company 서비스 및 Operation(Claim) 서비스 전담 개발  
+  **• 핵심 기여**: Checkstyle·ArchUnit·Flyway 기반 **빌드 단계 3중 자동 검증(CI/CD)** 구축  
+  **• 핵심 기여**: Claim 취소 로직에 **Orchestration 기반 Saga 패턴**을 적용하여 분산 트랜잭션 정합성 보장  
+  [레포 보기](https://github.com/B2B-team2/delivering)
+  
 <br>
 
 ## 🛠️ 기술 스택
-- **스마트컨트랙트**: Solidity, Hardhat, OpenZeppelin  
+- **언어** : Java, Javascript, C, C++, C#, python, Typescript, Solidity, Rust, Go
+- **스마트컨트랙트**: Solidity, Hardhat, Foundry, OpenZeppelin, Anchor,   
 - **프론트엔드**: React, Next.js, wagmi/viem  
-- **백엔드**: Node.js, Express, REST API  
-- **블록체인**: Kaia/Klaytn, Ethereum, Uniswap V2 Mechanics  
-- **봇/자동화**: Telegram Bot API  
+- **백엔드**: Node.js, Express, Nest, Spring, Redis, MySQL, PostgreSQL
+- **블록체인**: Kaia/Klaytn, Ethereum, Uniswap V2 Mechanics
+- **인프라 & 메시징** : AWS, Docker, Kafka, RabbitMQ
+- **봇/자동화**: Telegram Bot API
+
 
 <br>
 
