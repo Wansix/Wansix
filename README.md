@@ -6,6 +6,34 @@ Web3 · DeFi · NFT 분야에 관심이 많은 개발자입니다.
 <br>
 
 ## 🚀 주요 프로젝트
+- **내일배움캠프 팀 프로젝트 2**  
+  한정판 드롭·래플 커머스를 위한 MSA 기반 선착순 쿠폰·구매 처리 플랫폼  
+  [레포 보기](https://github.com/SOLDOUT-2/OMC)
+
+  * **주요 역할**: MSA 아키텍처 인프라 구축 및 공통 서비스 전담 개발
+    * 서비스 디스커버리 및 라우팅 환경 구축 (Gateway, Eureka, Config Server)
+    * User, Coupon, Notification, Common 도메인 모듈 개발
+    * 서비스 컨테이너 환경 패키징 및 인프라 구축
+    * GitHub Actions 기반의 CD 파이프라인 구축
+    * 모니터링(Observability) 구축 (Prometheus·Grafana·Zipkin·Loki·Sentry)
+  * **핵심 기여**: Docker Container 및 Karate 기반 통합/E2E 테스트 환경 설계
+    * Testcontainers를 도입하여 격리된 데이터베이스 환경에서 신뢰성 높은 통합 테스트 체계 구축
+    * API 검증 도구인 Karate를 활용해 분산 서비스 간 통합 흐름을 검증하는 E2E 테스트 기반을 설계하고 팀에 전파
+  * **핵심 기여**: GitHub Actions 기반 CD 자동화로 배포 프로세스 단축
+    * 소스 코드 변경부터 AWS 배포 완료까지 배포 전 과정을 완전 자동화하여 릴리스 시간 단축
+
+<br>
+
+- **내일배움캠프 팀 프로젝트 1**  
+  MSA 기반 국내 B2B 물류 관리 및 배송 최적화 플랫폼  
+  [레포 보기](https://github.com/B2B-team2/delivering)
+
+  * **주요 역할**: Company 서비스 및 Operation(Claim) 서비스 전담 개발  
+  * **핵심 기여**: Checkstyle·ArchUnit·Flyway 기반 **빌드 단계 3중 자동 검증(CI/CD)** 구축  
+  * **핵심 기여**: Claim 취소 로직에 **Orchestration 기반 Saga 패턴**을 적용하여 분산 트랜잭션 정합성 보장
+
+  
+<br>
 
 - **CuriousPandasNFT (스마트컨트랙트)**  
   Klaytn(현 Kaia) 기반 NFT 컬렉션 (총공급 3,000) · 3단계 민팅 시스템 및 화이트리스트 관리  
@@ -32,20 +60,17 @@ Web3 · DeFi · NFT 분야에 관심이 많은 개발자입니다.
   김치밈 펀 사이트 거래 발생 시 자동으로 텔레그램 알림을 전송하는 봇  
   [레포 보기](https://github.com/Wansix/kimchi_bot_public)
 
-- **Himymon** 
+- **Himymon**  
+  감성적인 캐릭터 AI 대화 & 다이어리 서비스  
   https://himymon.com/
 
-- **lotto**
+- **lotto**  
+  로또 시뮬레이터  
   https://lotto-simulators.pages.dev/
 
-- **내일배움캠프 팀 프로젝트 1**  
- MSA 기반 국내 B2B 물류 관리 및 배송 최적화 플랫폼  
-  **• 주요 역할**: Company 서비스 및 Operation(Claim) 서비스 전담 개발  
-  **• 핵심 기여**: Checkstyle·ArchUnit·Flyway 기반 **빌드 단계 3중 자동 검증(CI/CD)** 구축  
-  **• 핵심 기여**: Claim 취소 로직에 **Orchestration 기반 Saga 패턴**을 적용하여 분산 트랜잭션 정합성 보장  
-  [레포 보기](https://github.com/B2B-team2/delivering)
-  
-<br>
+
+
+
 
 ## 🛠️ 기술 스택
 - **언어** : Java, Javascript, C, C++, C#, python, Typescript, Solidity, Rust, Go
